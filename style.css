@@ -1,0 +1,19 @@
+
+.myCanvas{
+    background-image: url("https://pbs.twimg.com/media/EFgSFsCWoAAEiPa.png:large");
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+  }
+body{
+  background-color: black;
+}
+
+@font-face{
+  font-family: 'Pixeled';
+  src: url(/Pixeled.ttf) format('truetype'); 
+}
+
+.new{
+  font-family: Pixeled;
+  color: white;
+}
